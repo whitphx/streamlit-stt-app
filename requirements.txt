@@ -1,6 +1,6 @@
 av==8.0.3
 deepspeech==0.9.3
-numpy==1.21.0
+numpy==1.21.1
 pydub==0.25.1
 streamlit==0.84.2
 streamlit_webrtc==0.24.0
