@@ -1,4 +1,4 @@
-av==8.0.3
+av==8.1.0
 deepspeech==0.9.3
 numpy==1.21.4
 pydub==0.25.1
