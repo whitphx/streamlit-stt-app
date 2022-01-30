@@ -14,3 +14,5 @@ The STT engine is [`mozilla/DeepSpeech`](https://github.com/mozilla/DeepSpeech).
 
 The forum post about this app is
 https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669/31?u=whitphx.
+
+![](./docs/img/example.gif)
