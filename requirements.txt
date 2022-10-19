@@ -3,4 +3,4 @@ deepspeech==0.9.3
 numpy==1.23.0
 pydub==0.25.1
 streamlit==1.10.0
-streamlit_webrtc==0.43.0
+streamlit_webrtc==0.44.0
