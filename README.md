@@ -17,3 +17,7 @@ The forum post about this app is
 https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669/31.
 
 ![](./docs/img/example.gif)
+
+## Other examples
+- STT with Whisper API by @goldengrape: https://github.com/whitphx/streamlit-stt-app/issues/133
+
